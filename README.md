@@ -1,2 +1,3 @@
-# opencourses-cloud
-The Open Coursese Cloud application for schools, colleges and universities
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
+# Open Courses Cloud
